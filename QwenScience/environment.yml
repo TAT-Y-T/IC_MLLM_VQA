@@ -294,6 +294,7 @@ dependencies:
       - torch==2.5.1+cu121
       - torchaudio==2.5.1+cu121
       - torchvision==0.20.1+cu121
+      - "--extra-index-url=https://download.pytorch.org/whl/cu121"
       - tqdm==4.67.1
       - transformers==4.52.0.dev0
       - triton==3.1.0
