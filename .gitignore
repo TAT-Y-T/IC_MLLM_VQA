@@ -3,3 +3,4 @@ ArxivVQA/using_image.tgz
 ArxivQA/pure_testing/images
 llava_env
 qwen2.5vl-prefix
+Score/train_filtered_images1-6
