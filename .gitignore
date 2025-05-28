@@ -4,3 +4,6 @@ ArxivQA/pure_testing/images
 llava_env
 qwen2.5vl-prefix
 Score/train_filtered_images1-6
+ScienceQA/Lora/qwen2.5vl-Lora1-6/checkpoint-500
+ScienceQA/Lora/qwen2.5vl-Lora1-6/checkpoint-600
+ScienceQA/Lora/qwen2.5vl-Lora1-6/runs
