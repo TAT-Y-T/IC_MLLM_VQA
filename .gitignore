@@ -7,3 +7,11 @@ Score/train_filtered_images1-6
 ScienceQA/Lora/qwen2.5vl-Lora1-6/checkpoint-500
 ScienceQA/Lora/qwen2.5vl-Lora1-6/checkpoint-600
 ScienceQA/Lora/qwen2.5vl-Lora1-6/runs
+ScienceQA/Lora/qwen2.5vl-Lora1-6_0609
+ScienceQA/Lora/qwen2.5vl-Lora1-6
+ScienceQA/Lora/logs
+ScienceQA/Pre_fix/__pycache__
+ScienceQA/Pre_fix/qwen2.5vl-prefix2.03B
+Score/val_filtered_images1-6
+ScienceQA/Lora/qwen2.5vl-Lora1-6_0610
+ScienceQA/Lora_score/qwen2.5vl-Lora1-6/runs
