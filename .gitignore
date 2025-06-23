@@ -20,3 +20,6 @@ ScienceQA/Lora_score/final_score_0613_3epochs
 ScienceQA/Lora_score/qwen2.5vl-Lora1-6_0613_score_3epochs
 ScienceQA/Lora_score/qwen2.5vl-Lora1-6_0613_score_3epochs_1000_1e-3
 ScienceQA/Lora_score/qwen2.5vl-Lora1-6_0616_score_first8
+ScienceQA/ppo/reward_head_only.pt
+ScienceQA/ppo/rm_model.pt
+ScienceQA/ppo/generation_outputs.json
