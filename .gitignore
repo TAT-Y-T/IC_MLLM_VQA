@@ -23,3 +23,5 @@ ScienceQA/Lora_score/qwen2.5vl-Lora1-6_0616_score_first8
 ScienceQA/ppo/reward_head_only.pt
 ScienceQA/ppo/rm_model.pt
 ScienceQA/ppo/generation_outputs.json
+ScienceQA/Lora_score/1-6_2epocs_0611.csv
+ScienceQA/Lora/test_lora/model_evaluation_results_7B_1_6_lora_0609_10epoch.csv
