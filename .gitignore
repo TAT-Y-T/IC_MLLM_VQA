@@ -15,3 +15,8 @@ ScienceQA/Pre_fix/qwen2.5vl-prefix2.03B
 Score/val_filtered_images1-6
 ScienceQA/Lora/qwen2.5vl-Lora1-6_0610
 ScienceQA/Lora_score/qwen2.5vl-Lora1-6/runs
+ScienceQA/Lora_score/final_score_0612_1epochs
+ScienceQA/Lora_score/final_score_0613_3epochs
+ScienceQA/Lora_score/qwen2.5vl-Lora1-6_0613_score_3epochs
+ScienceQA/Lora_score/qwen2.5vl-Lora1-6_0613_score_3epochs_1000_1e-3
+ScienceQA/Lora_score/qwen2.5vl-Lora1-6_0616_score_first8
