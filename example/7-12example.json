@@ -1,0 +1,16 @@
+[
+    {
+        "question": "Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?",
+        "choices": [
+            "neither; the samples have the same temperature",
+            "sample B",
+            "sample A"
+        ],
+        "hint": "The diagrams below show two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle. Both samples have the same number of particles.",
+        "grade": "grade8",
+        "answer": 2,
+        "explanation": "The particles in both samples have the same average speed, but each particle in sample A has more mass than each particle in sample B. So, the particles in sample A have a higher average kinetic energy than the particles in sample B.\nBecause the particles in sample A have the higher average kinetic energy, sample A must have the higher temperature.\n\nThe temperature of a substance depends on the average kinetic energy of the particles in the substance. The higher the average kinetic energy of the particles, the higher the temperature of the substance.\nThe kinetic energy of a particle is determined by its mass and speed. For a pure substance, the greater the mass of each particle in the substance and the higher the average speed of the particles, the higher their average kinetic energy.",
+        "score": "**[Your Score]: 0.7**",
+        "image": "7-12.png"
+}
+]

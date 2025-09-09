@@ -1,0 +1,17 @@
+[
+{
+    "id": "cs-60770",
+    "image": "1805.06771_2.jpg",
+    "options": [
+      "A. FC social pooling.",
+      "B. Conv. social pooling.",
+      "C. Both methods show the same increase.",
+      "D. It is not possible to determine from the graph.",
+      "-"
+    ],
+    "question": "Which method shows the least amount of increase in RMSE error from the original datasets to the datasets from the experiment as the prediction horizon reaches 5 seconds?",
+    "label": "B",
+    "score": "**[Your Score]: 0.5**",
+    "rationale": "By comparing the increase in the RMSE error at a 5-second prediction horizon, the Conv. social pooling line shows a smaller gap between the original datasets and the datasets from the experiment, compared to the FC social pooling line."
+}
+]

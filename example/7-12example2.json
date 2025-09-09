@@ -1,0 +1,16 @@
+[
+    {
+    "question": "Which ocean is highlighted?",
+    "choices": [
+        "the Southern Ocean",
+        "the Pacific Ocean",
+        "the Arctic Ocean",
+        "the Indian Ocean"
+    ],
+    "hint": "",
+    "grade": "grade8",
+    "answer": 3,
+    "explanation": "This is the Indian Ocean.\n\nOceans are huge bodies of salt water. The world has five oceans. All of the oceans are connected, making one world ocean.",
+    "image": "7-12_2.png"
+}
+]

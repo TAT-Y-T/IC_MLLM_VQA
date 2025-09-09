@@ -1,0 +1,7 @@
+﻿Question,Choices,True Answer,True Answer ID,Predicted Answer ID,Correct,Model Output,Model Explanation,Reference Solution,BLEU,ROUGE-L,Keyword Overlap
+Which method shows the least amount of increase in RMSE error from the original datasets to the datasets from the experiment as the prediction horizon reaches 5 seconds?,"A. FC social pooling.
+B. Conv. social pooling.
+C. Both methods show the same increase.
+D. It is not possible to determine from the graph.
+-",B,1,1,1,"Answer: B
+Explanation: The blue line representing Conv. social pooling has the lowest slope compared to the red line for FC social pooling, indicating that it experiences less increase in RMSE error with increasing prediction horizons.","Explanation: The blue line representing Conv. social pooling has the lowest slope compared to the red line for FC social pooling, indicating that it experiences less increase in RMSE error with increasing prediction horizons.","By comparing the increase in the RMSE error at a 5-second prediction horizon, the Conv. social pooling line shows a smaller gap between the original datasets and the datasets from the experiment, compared to the FC social pooling line.",0.05689339573909669,0.4406779611146223,0.6
